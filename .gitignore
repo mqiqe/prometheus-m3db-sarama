@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/prometheus-m3db-sarama.iml
+.idea/vcs.xml
